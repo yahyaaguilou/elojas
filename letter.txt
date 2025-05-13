@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+<body>
+    <div class="centered-div">
+        <div>
+            <a href="https://generatday.store/redi.html">
+                <!-- Your image and link content goes here -->
+                <img src="https://generatday.store/dus.png" alt="Image description">
+            </a>
+        </div>
+</body>
